@@ -13,12 +13,12 @@
 
 ### Mega Bonus Credit
 
-* Add names to the top of the list[]
+* Add names to the top of the list[X]
 
 ### Super Mega Bonus Credit
 
-* Add a _delete_ button to every list item that removes the name from the list when clicked[]
+* Add a _delete_ button to every list item that removes the name from the list when clicked[X]
 
 ### Super Mega Bonus Credit Hyper Fighting
 
-* Add a _promote_ button to every list item that changes the apperance (_e.g._ changes the background color, add a border, etc.) of that item when clicked.[]
+* Add a _promote_ button to every list item that changes the apperance (_e.g._ changes the background color, add a border, etc.) of that item when clicked.[X]
